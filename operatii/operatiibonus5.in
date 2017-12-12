@@ -1,0 +1,9 @@
+8
+insert aperiam
+move 20
+del 10
+move 4
+undo
+undo
+undo
+insert katy

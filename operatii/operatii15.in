@@ -1,0 +1,9 @@
+8
+insert nazdrave
+move 23
+copy 10
+move 13
+paste
+undo
+move 18
+paste

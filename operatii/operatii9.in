@@ -1,0 +1,9 @@
+8
+move -3
+del 10
+move -10
+insert ipsum
+move 50
+backspace
+backspace
+backspace 

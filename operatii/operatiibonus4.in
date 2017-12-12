@@ -1,0 +1,7 @@
+6
+move 20
+insert vitae
+move 10
+undo
+undo
+insert error

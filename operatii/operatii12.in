@@ -1,0 +1,6 @@
+5
+move 30
+insert bonus
+del 3
+undo
+backspace

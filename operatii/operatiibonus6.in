@@ -1,0 +1,12 @@
+11
+insert malaga
+move 30
+del 10
+backspace
+insert water
+undo
+undo
+undo
+redo
+redo
+insert fresh

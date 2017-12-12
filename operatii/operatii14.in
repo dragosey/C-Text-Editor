@@ -1,0 +1,9 @@
+8
+move 50
+insert horse
+insert farm
+undo
+move 20
+insert ana
+undo
+redo
