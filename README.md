@@ -14,4 +14,4 @@ After all the desired changes have been made to the default text, the modified o
 # How to run the text editor
 1. <code>make build</code>
 2. <code>make checker</code>
-<br>It should run all the tests and return a perfect score - 130 points.
+<br>It should run all tests and return a perfect score - 130 points.
