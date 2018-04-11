@@ -1,4 +1,4 @@
-<b>IMPORTANT: I don't have the rights over the <i>checker.sh</i> file and all of the test from <i>date</i> and <i>operatii</i> folder</b>, I just uploaded them in order to check the code is working properly.
+<b>IMPORTANT: I don't have the copyrights over the <i>checker.sh</i> file and all of the test from <i>date</i> and <i>operatii</i> folder</b>, I just uploaded them in order to check the code is working properly.
 
 # C Text Editor
 <b>Homework #1</b><br>
@@ -14,4 +14,4 @@ After all the desired changes have been made to the default text, the modified o
 # How to run the text editor
 1. <code>make build</code>
 2. <code>make checker</code>
-<br>It should run all the tests and return a 130 points.
+<br>It should run all the tests and return a perfect score - 130 points.
